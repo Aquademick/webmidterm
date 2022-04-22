@@ -1,0 +1,17 @@
+body, #quote, #author {
+    display: flex;
+    justify-content: center;
+}
+
+#quote {
+    margin-top: 300px;
+    font-family: "Bradley Hand ITC";
+    text-align: center;
+    font-size: 32px;
+}
+
+#author {
+    margin-top: 10px;
+    font-family: "Bradley Hand ITC";
+    font-size: 48px;
+}
